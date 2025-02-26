@@ -1,2 +1,2 @@
 # project
-project team2 DPEI 
+project team2 DEPI 
